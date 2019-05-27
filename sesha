@@ -6,3 +6,5 @@ ls -ltr
 echo "testing" >> test
 ls -ltr
 echo "$Environment for $Variable" >> test
+echo "[Info] GIT JENKINSIntegration demo"
+echo "[Info] SCM JENKINSIntegration demo"
