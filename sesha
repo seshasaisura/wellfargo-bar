@@ -8,3 +8,4 @@ ls -ltr
 echo "$Environment for $Variable" >> test
 echo "[Info] GIT JENKINSIntegration demo"
 echo "[Info] SCM JENKINSIntegration demo"
+echo "[Info] Sesha JENKINSIntegration demo"
